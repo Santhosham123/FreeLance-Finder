@@ -3,15 +3,15 @@ A smart and user-centric freelance job platform that connects skilled freelancer
 
 ## 🚀 Features
 
--🔐 Freelancer & Client Login
--🔍 Browse & Post Jobs by Category and Budget
--🤖 AI-Powered Job Recommendations
--📨 In-App Messaging & Notifications
--📁 Freelancer Profile & Portfolio Display
--🕒 Track Ongoing Projects and Milestones
--💸 Secure Payments & Invoice Generation
--🌍 Location-Based Job Matching (Optional)
--📱 Responsive UI (Mobile + Web Friendly)
+- 🔐 Freelancer & Client Login
+- 🔍 Browse & Post Jobs by Category and Budget
+- 🤖 AI-Powered Job Recommendations
+- 📨 In-App Messaging & Notifications
+- 📁 Freelancer Profile & Portfolio Display
+- 🕒 Track Ongoing Projects and Milestones
+- 💸 Secure Payments & Invoice Generation
+- 🌍 Location-Based Job Matching (Optional)
+- 📱 Responsive UI (Mobile + Web Friendly)
 
 ## 🛠 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript / React / Vue
